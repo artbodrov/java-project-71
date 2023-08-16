@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6cf49dc-5cb9-4a28-89f7-19cc71f9d53e" name="Changes" comment="add">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-    </list>
+    <list default="true" id="d6cf49dc-5cb9-4a28-89f7-19cc71f9d53e" name="Changes" comment="add differ" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +23,12 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="app" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -56,11 +58,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "//wsl$/Ubuntu-16.04/home/h8me/homework/java-project-71/app/src/main/resources",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu-16.04\home\h8me\homework\java-project-71\app\src\main\resources" />
+      <recent name="\\wsl$\Ubuntu-16.04\home\h8me\homework\java-project-71\app" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu-16.04\home\h8me\homework\java-project-71\app\src\main\resources" />
       <recent name="\\wsl$\Ubuntu-16.04\home\h8me\homework\java-project-71\app" />
     </key>
   </component>
@@ -131,13 +139,30 @@
       <option name="project" value="LOCAL" />
       <updated>1692198465008</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add differ">
+      <option name="closed" value="true" />
+      <created>1692203004576</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692203004576</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add differ">
+      <option name="closed" value="true" />
+      <created>1692207821128</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692207821128</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="add compileJava release = 20" />
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="add differ" />
+    <option name="LAST_COMMIT_MESSAGE" value="add differ" />
   </component>
 </project>
