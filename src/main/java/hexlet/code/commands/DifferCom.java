@@ -11,7 +11,7 @@ import static picocli.CommandLine.Parameters;
 
 @Command(name = "gendiff",
         mixinStandardHelpOptions = true,
-        version = "gendiff 0.1",
+        version = "gendiff 1.1",
         description = "Compares two configuration files and shows a difference.")
 public final class DifferCom implements Callable<Integer> {
 
